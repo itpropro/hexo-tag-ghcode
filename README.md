@@ -1,6 +1,6 @@
 # hexo-tag-github-code
 
-**Taken over from [hexo-tag-github-code](https://github.com/nkmk/hexo-tag-github-code), as the author [nkmk](https://github.com/nkmk) has stopped maintaining the repository.**
+**Taken over from [hexo-tag-github-code](https://github.com/itpropro/hexo-tag-ghcode), as the author [nkmk](https://github.com/nkmk) has stopped maintaining the repository.**
 
 Insert code from [GitHub](https://github.com/) when static files are generated.
 
@@ -20,15 +20,15 @@ $ npm install hexo-tag-github-code --save
 ## Support URL
 ### GitHub / Gist
 - URL of each file page as below
-  - https://github.com/nkmk/hexo-tag-github-code/blob/master/index.js
+  - https://github.com/itpropro/hexo-tag-ghcode/blob/master/index.js
   - https://gist.github.com/nkmk/d60cdbcffdb60d624ac01871543f79a2
   - https://gist.github.com/nkmk/d60cdbcffdb60d624ac01871543f79a2#file-sample-py
 - URL links to raw file as below
-  - https://raw.githubusercontent.com/nkmk/hexo-tag-github-code/master/index.js
+  - https://raw.githubusercontent.com/itpropro/hexo-tag-ghcode/master/index.js
   - https://gist.githubusercontent.com/nkmk/d60cdbcffdb60d624ac01871543f79a2/raw/e7528c00addcdd0b4d00cb9bbd8d225cc132fbfc/sample.py
 - URL of github permalink
-  - https://github.com/nkmk/hexo-tag-github-code/blob/master/index.js#L5-L16
-  - https://github.com/nkmk/hexo-tag-github-code/blob/master/index.js#L116
+  - https://github.com/itpropro/hexo-tag-ghcode/blob/master/index.js#L5-L16
+  - https://github.com/itpropro/hexo-tag-ghcode/blob/master/index.js#L116
 
 ### Other site
 If URL links to raw file, it will work.
